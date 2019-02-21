@@ -1,3 +1,5 @@
+# TODO: rewrite with the same functionality as ruby microservice
+
 # Link Extractor: Step 5
 
 A web application to extract links and anchor texts from a given web page and analyze link statistics.
